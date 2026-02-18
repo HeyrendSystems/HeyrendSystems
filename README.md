@@ -1,15 +1,17 @@
-<p align="center">
-  <img src="images/heyrend-systems-logo.png" width="260">
-</p>
+<div align="center">
+
+```txt
+┌──────────────────────────────┐
+│  user@heyrend:~$             │
+│  HEYREND SYSTEMS             │
+└──────────────────────────────┘
+```
+
+</div>
 
 ---
 
 ```bash
-
-┌───────────────────────────────────────────────┐
-│              HeyrendSystems@github            │
-└───────────────────────────────────────────────┘
-
 $ whoami
 Jacob Heyrend
 
