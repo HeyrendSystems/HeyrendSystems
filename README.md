@@ -19,11 +19,23 @@ Jacob Heyrend
 $ echo "Engineering • Software • Technical Systems"
 Engineering • Software • Technical Systems
 
-$ cat about.txt
+$ about
 Personal portfolio for software projects, simulations,
 technical tools, and system-focused builds.
 
-Goal: Connect code with real-world applications and
+$ background
+8 Years — Directional Drilling Operations
+5 Years  — Water Distribution & Treatment Systems
+
+Experience working with real-world infrastructure,
+mechanical systems, safety procedures, and
+large-scale operational environments.
+
+$ education
+B.S. Computer Science — WGU (In Progress)
+
+$ goal
+Connect code with real-world applications and
 build clean, functional systems.
 
 $ tree focus/
@@ -34,7 +46,7 @@ focus
 ├── networking
 └── automation
 
-$ cat tech_stack.txt
+$ tech_stack
 Languages  : Python, JavaScript, SQL
 Tools      : Git, GitHub, VS Code
 Systems    : MQTT, Modbus, Node-RED
@@ -49,4 +61,5 @@ $ contact --info
 GitHub   : https://github.com/HeyrendSystems
 LinkedIn : (coming soon)
 Email    : (optional)
+```
 
