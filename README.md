@@ -2,11 +2,6 @@
   <img src="images/heyrend-systems-logo.png" width="260">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-building-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/focus-software%20%7C%20systems-blue?style=for-the-badge">
-</p>
-
 ---
 
 ```bash
