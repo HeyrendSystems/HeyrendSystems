@@ -1,4 +1,6 @@
-<h1 align="center">Heyrend Systems</h1>
+<p align="center">
+  <img src="images/heyrend-systems-logo.png" width="260">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-building-green?style=for-the-badge">
