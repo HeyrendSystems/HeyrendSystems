@@ -14,7 +14,7 @@
 └───────────────────────────────────────────────┘
 
 $ whoami
-Heyrend Systems
+Jacob Heyrend
 
 $ echo "Engineering • Software • Technical Systems"
 Engineering • Software • Technical Systems
