@@ -53,8 +53,7 @@ Interests  : Instrumentation, Control Logic, Dashboards
 
 $ ls featured_projects/
 digital-well-house-simulator
-virtual-plc-engine
-modbus-device-tester
+
 
 $ contact --info
 GitHub   : https://github.com/HeyrendSystems
