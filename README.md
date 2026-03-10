@@ -49,7 +49,7 @@ $ tech_stack
 Languages  : Python, JavaScript, SQL
 Tools      : Git, GitHub, VS Code
 Systems    : MQTT, Modbus, Node-RED
-Interests  : Instrumentation, Control Logic, Dashboards
+Interests  : Building practical tools, designing systems, and general programming
 
 $ ls featured_projects/
 digital-well-house-simulator
