@@ -23,7 +23,7 @@ Personal portfolio for software projects, simulations,
 technical tools, and system-focused builds.
 
 $ background
-8 Years — Directional Drilling Operations
+7 Years — Directional Drilling Operations
 5 Years  — Water Distribution & Treatment Systems
 
 Experience working with real-world infrastructure,
