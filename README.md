@@ -53,11 +53,5 @@ Interests  : Building practical tools, designing systems, and general programmin
 
 $ ls featured_projects/
 digital-well-house-simulator
-
-
-$ contact --info
-GitHub   : https://github.com/HeyrendSystems
-LinkedIn : (coming soon)
-Email    : (optional)
 ```
 
